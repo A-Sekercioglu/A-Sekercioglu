@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Ata Sekercioglu
+- 🌱 I’m currently learning C#
+- 📫 How to reach me on instagram sekerciogluata
